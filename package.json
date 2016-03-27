@@ -1,0 +1,24 @@
+{
+  "name": "ed",
+  "version": "0.0.0",
+  "description": "",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clns/ed.git"
+  },
+  "keywords": [],
+  "author": "Calin Seciu",
+  "bugs": {
+    "url": "https://github.com/clns/ed/issues"
+  },
+  "homepage": "https://github.com/clns/ed#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

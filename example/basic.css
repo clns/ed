@@ -1,0 +1,22 @@
+.scroller {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: auto;
+}
+.content {
+  font-size: 18px;
+  width: 800px;
+  margin: 0 auto;
+  padding: 50px 100px 200px;
+  font-family: Helvetica, sans-serif;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  word-break: normal;
+  border:1px solid #DDD;
+}
+pre:focus {
+  outline: none;
+}
